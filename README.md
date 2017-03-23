@@ -3,7 +3,7 @@ This repository includes all programming assignments solved while attending Cour
 
 Assignments were completed with GNU Octave, version 4.0
 
-For more information, please refer - 
+For more information, please refer - https://www.coursera.org/learn/robotics-perception
 
 **Course Syllabus**
 
